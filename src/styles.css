@@ -131,7 +131,7 @@ footer {
     border: 1px groove var(--btn-color);
 }
 
-@media (max-width: 399px) {
+@media (max-width: 450px) {
 
     a {
         align-items: center;
